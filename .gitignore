@@ -1,0 +1,8 @@
+# 모든 깊이의 .aptos 디렉토리 무시
+**/.aptos/
+
+# 모든 깊이의 build 디렉토리 무시
+**/build/
+
+# config.yaml 파일 무시 (이미 .aptos 디렉토리를 무시하고 있지만, 추가로 명시)
+**/config.yaml
